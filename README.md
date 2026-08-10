@@ -54,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0101-symmetric-tree) |
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
