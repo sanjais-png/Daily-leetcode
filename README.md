@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjais-png/Daily-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/sanjais-png/Daily-leetcode/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjais-png/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/sanjais-png/Daily-leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjais-png/Daily-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjais-png/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/sanjais-png/Daily-leetcode/tree/master/0016-3sum-closest) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Matrix
