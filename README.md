@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjais-png/Daily-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjais-png/Daily-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjais-png/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sanjais-png/Daily-leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjais-png/Daily-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -82,15 +84,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanjais-png/Daily-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sanjais-png/Daily-leetcode/tree/master/0016-3sum-closest) |
+| [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Matrix
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjais-png/Daily-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
