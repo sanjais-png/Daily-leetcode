@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjais-png/Daily-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/sanjais-png/Daily-leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sanjais-png/Daily-leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjais-png/Daily-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/sanjais-png/Daily-leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanjais-png/Daily-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/sanjais-png/Daily-leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 <!---LeetCode Topics End-->
