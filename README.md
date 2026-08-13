@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjais-png/Daily-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/sanjais-png/Daily-leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjais-png/Daily-leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjais-png/Daily-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjais-png/Daily-leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/sanjais-png/Daily-leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanjais-png/Daily-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjais-png/Daily-leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
