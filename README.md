@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanjais-png/Daily-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjais-png/Daily-leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/sanjais-png/Daily-leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/sanjais-png/Daily-leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+## Simulation
+|  |
+| ------- |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/sanjais-png/Daily-leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
