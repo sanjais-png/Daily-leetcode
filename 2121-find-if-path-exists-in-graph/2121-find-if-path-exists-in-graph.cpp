@@ -4,8 +4,10 @@ public:
     
         vector<vector<int>>adj(n);
         for(int i = 0 ; i < edges.size() ; i++){
-            adj[edges[i][0]].push_back(edges[i][1]);
-            adj[edges[i][1]].push_back(edges[i][0]);
+            int a = edges[i][0];
+            int b = edges[i][1];
+            adj[a].push_back(b);
+            adj[b].push_back(a);
         }
         vector<bool>visited(n,false);
         queue<int>q;
