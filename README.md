@@ -152,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/sanjais-png/Daily-leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/sanjais-png/Daily-leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
