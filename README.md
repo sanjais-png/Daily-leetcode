@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanjais-png/Daily-leetcode/tree/master/0002-add-two-numbers) |
+| [0089-gray-code](https://github.com/sanjais-png/Daily-leetcode/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -157,9 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/sanjais-png/Daily-leetcode/tree/master/0089-gray-code) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sanjais-png/Daily-leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Greedy
 |  |
 | ------- |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/sanjais-png/Daily-leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
