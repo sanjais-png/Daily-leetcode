@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjais-png/Daily-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/sanjais-png/Daily-leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanjais-png/Daily-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjais-png/Daily-leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/sanjais-png/Daily-leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+## Greedy
+|  |
+| ------- |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
