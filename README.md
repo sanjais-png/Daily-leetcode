@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanjais-png/Daily-leetcode/tree/master/0002-add-two-numbers) |
 | [0089-gray-code](https://github.com/sanjais-png/Daily-leetcode/tree/master/0089-gray-code) |
+| [4256-construct-uniform-parity-array-i](https://github.com/sanjais-png/Daily-leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sanjais-png/Daily-leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [4008-restore-finishing-order](https://github.com/sanjais-png/Daily-leetcode/tree/master/4008-restore-finishing-order) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/sanjais-png/Daily-leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4256-construct-uniform-parity-array-i](https://github.com/sanjais-png/Daily-leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
