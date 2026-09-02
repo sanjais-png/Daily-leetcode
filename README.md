@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sanjais-png/Daily-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/sanjais-png/Daily-leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sanjais-png/Daily-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1073-number-of-enclaves](https://github.com/sanjais-png/Daily-leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sanjais-png/Daily-leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2662-check-knight-tour-configuration](https://github.com/sanjais-png/Daily-leetcode/tree/master/2662-check-knight-tour-configuration) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sanjais-png/Daily-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Array
 |  |
 | ------- |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sanjais-png/Daily-leetcode/tree/master/0139-word-break) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sanjais-png/Daily-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
