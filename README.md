@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjais-png/Daily-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sanjais-png/Daily-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/sanjais-png/Daily-leetcode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/sanjais-png/Daily-leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjais-png/Daily-leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjais-png/Daily-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sanjais-png/Daily-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/sanjais-png/Daily-leetcode/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/sanjais-png/Daily-leetcode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/sanjais-png/Daily-leetcode/tree/master/0647-palindromic-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sanjais-png/Daily-leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/sanjais-png/Daily-leetcode/tree/master/4087-maximum-substrings-with-distinct-start) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sanjais-png/Daily-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/sanjais-png/Daily-leetcode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/sanjais-png/Daily-leetcode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/sanjais-png/Daily-leetcode/tree/master/0647-palindromic-substrings) |
 ## Manacher
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/sanjais-png/Daily-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjais-png/Daily-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0139-word-break](https://github.com/sanjais-png/Daily-leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/sanjais-png/Daily-leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjais-png/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/sanjais-png/Daily-leetcode/tree/master/0200-number-of-islands) |
@@ -201,4 +205,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sanjais-png/Daily-leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sanjais-png/Daily-leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sanjais-png/Daily-leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
