@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjais-png/Daily-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sanjais-png/Daily-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/sanjais-png/Daily-leetcode/tree/master/0072-edit-distance) |
+| [0647-palindromic-substrings](https://github.com/sanjais-png/Daily-leetcode/tree/master/0647-palindromic-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sanjais-png/Daily-leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/sanjais-png/Daily-leetcode/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## Sliding Window
@@ -50,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sanjais-png/Daily-leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanjais-png/Daily-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjais-png/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0647-palindromic-substrings](https://github.com/sanjais-png/Daily-leetcode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjais-png/Daily-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/sanjais-png/Daily-leetcode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0647-palindromic-substrings](https://github.com/sanjais-png/Daily-leetcode/tree/master/0647-palindromic-substrings) |
 ## Manacher
 |  |
 | ------- |
