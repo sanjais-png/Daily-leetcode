@@ -70,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/sanjais-png/Daily-leetcode/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/sanjais-png/Daily-leetcode/tree/master/1073-number-of-enclaves) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Array
 |  |
