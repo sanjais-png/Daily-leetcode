@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjais-png/Daily-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sanjais-png/Daily-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/sanjais-png/Daily-leetcode/tree/master/0072-edit-distance) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sanjais-png/Daily-leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/sanjais-png/Daily-leetcode/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## Sliding Window
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjais-png/Daily-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/sanjais-png/Daily-leetcode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Manacher
 |  |
