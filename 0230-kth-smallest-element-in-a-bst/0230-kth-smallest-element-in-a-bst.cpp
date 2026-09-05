@@ -14,9 +14,9 @@ public:
     int count = 0 , ans = -1;
     int kthSmallest(TreeNode* root, int k) {
         if(root == nullptr){
-            return 0;
+            return -1;
         }
-        kthSmallest(root->left , k);
+        kthSmallest(root->left,k);
         count++;
         if(count == k){
             ans = root->val;
