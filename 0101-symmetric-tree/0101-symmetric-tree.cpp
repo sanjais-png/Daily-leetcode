@@ -11,21 +11,17 @@
  */
 class Solution {
 public:
-    bool mirror(TreeNode* a , TreeNode* b){
+    bool rec(TreeNode* a , TreeNode* b){
         if(a == nullptr && b == nullptr){
             return true;
         }
         if(a == nullptr || b == nullptr || a->val != b->val){
             return false;
         }
-        return mirror(a->left , b->right) && mirror(a->right , b->left);
+        return rec(a->left , b->right) && rec(a->right , b->left);
     }
 
-
     bool isSymmetric(TreeNode* root) {
-        if(root == nullptr){
-            return true;
-        }
-        return mirror(root->left , root->right);
+        return rec(root->left , root->right);
     }
 };
