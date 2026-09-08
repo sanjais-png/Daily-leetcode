@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/sanjais-png/Daily-leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sanjais-png/Daily-leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2662-check-knight-tour-configuration](https://github.com/sanjais-png/Daily-leetcode/tree/master/2662-check-knight-tour-configuration) |
+| [2793-count-the-number-of-complete-components](https://github.com/sanjais-png/Daily-leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/sanjais-png/Daily-leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sanjais-png/Daily-leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2662-check-knight-tour-configuration](https://github.com/sanjais-png/Daily-leetcode/tree/master/2662-check-knight-tour-configuration) |
+| [2793-count-the-number-of-complete-components](https://github.com/sanjais-png/Daily-leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -223,10 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sanjais-png/Daily-leetcode/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/sanjais-png/Daily-leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sanjais-png/Daily-leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/sanjais-png/Daily-leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/sanjais-png/Daily-leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/sanjais-png/Daily-leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Bit Manipulation
 |  |
 | ------- |
