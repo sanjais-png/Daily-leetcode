@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjais-png/Daily-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanjais-png/Daily-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sanjais-png/Daily-leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanjais-png/Daily-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/sanjais-png/Daily-leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sanjais-png/Daily-leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2662-check-knight-tour-configuration](https://github.com/sanjais-png/Daily-leetcode/tree/master/2662-check-knight-tour-configuration) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjais-png/Daily-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanjais-png/Daily-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Trie
 |  |
 | ------- |
