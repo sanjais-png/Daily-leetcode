@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanjais-png/Daily-leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/sanjais-png/Daily-leetcode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/sanjais-png/Daily-leetcode/tree/master/0089-gray-code) |
 | [4245-count-commas-in-range](https://github.com/sanjais-png/Daily-leetcode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/sanjais-png/Daily-leetcode/tree/master/4248-count-commas-in-range-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjais-png/Daily-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/sanjais-png/Daily-leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/sanjais-png/Daily-leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sanjais-png/Daily-leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanjais-png/Daily-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sanjais-png/Daily-leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
