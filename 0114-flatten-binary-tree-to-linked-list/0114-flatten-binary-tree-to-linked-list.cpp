@@ -11,27 +11,13 @@
  */
 class Solution {
 public:
-    vector<int>traverse;
-    void preOrder(TreeNode* root){
-        if(root == nullptr){
-            return;
-        }
-        traverse.push_back(root -> val);
-        preOrder(root -> left);
-        preOrder(root -> right);
-    }
+    TreeNode* prev = nullptr;
     void flatten(TreeNode* root) {
-        if(root != nullptr){
-            preOrder(root);
-            TreeNode* temp = root;
-            root->right = nullptr;
-            root->left = nullptr;
-            for(int i = 1 ; i < traverse.size() ; i++){
-                root->right = new TreeNode(traverse[i]);
-                root = root->right;
-            }
-            root = temp;
-        }
-
+        if(root == nullptr){return;}
+        flatten(root->right);
+        flatten(root->left);
+        root->right = prev;
+        root->left = nullptr;
+        prev = root;
     }
 };
