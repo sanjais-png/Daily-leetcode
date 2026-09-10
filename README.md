@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sanjais-png/Daily-leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sanjais-png/Daily-leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sanjais-png/Daily-leetcode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/sanjais-png/Daily-leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/sanjais-png/Daily-leetcode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/sanjais-png/Daily-leetcode/tree/master/0647-palindromic-substrings) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sanjais-png/Daily-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanjais-png/Daily-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjais-png/Daily-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/sanjais-png/Daily-leetcode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/sanjais-png/Daily-leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/sanjais-png/Daily-leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjais-png/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
