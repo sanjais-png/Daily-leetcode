@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sanjais-png/Daily-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanjais-png/Daily-leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/sanjais-png/Daily-leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjais-png/Daily-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/sanjais-png/Daily-leetcode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/sanjais-png/Daily-leetcode/tree/master/0139-word-break) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sanjais-png/Daily-leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/sanjais-png/Daily-leetcode/tree/master/0089-gray-code) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sanjais-png/Daily-leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Greedy
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/sanjais-png/Daily-leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/sanjais-png/Daily-leetcode/tree/master/0089-gray-code) |
 ## DP on Trees
 |  |
