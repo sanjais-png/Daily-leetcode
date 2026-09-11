@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanjais-png/Daily-leetcode/tree/master/0002-add-two-numbers) |
+| [3799-unique-3-digit-even-numbers](https://github.com/sanjais-png/Daily-leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/sanjais-png/Daily-leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjais-png/Daily-leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3799-unique-3-digit-even-numbers](https://github.com/sanjais-png/Daily-leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4008-restore-finishing-order](https://github.com/sanjais-png/Daily-leetcode/tree/master/4008-restore-finishing-order) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/sanjais-png/Daily-leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/sanjais-png/Daily-leetcode/tree/master/4087-maximum-substrings-with-distinct-start) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjais-png/Daily-leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sanjais-png/Daily-leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/sanjais-png/Daily-leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4008-restore-finishing-order](https://github.com/sanjais-png/Daily-leetcode/tree/master/4008-restore-finishing-order) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/sanjais-png/Daily-leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/sanjais-png/Daily-leetcode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sanjais-png/Daily-leetcode/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/sanjais-png/Daily-leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
