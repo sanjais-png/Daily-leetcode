@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sanjais-png/Daily-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sanjais-png/Daily-leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/sanjais-png/Daily-leetcode/tree/master/0089-gray-code) |
+| [0866-rectangle-overlap](https://github.com/sanjais-png/Daily-leetcode/tree/master/0866-rectangle-overlap) |
 | [4245-count-commas-in-range](https://github.com/sanjais-png/Daily-leetcode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/sanjais-png/Daily-leetcode/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/sanjais-png/Daily-leetcode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -333,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/sanjais-png/Daily-leetcode/tree/master/3799-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/sanjais-png/Daily-leetcode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
