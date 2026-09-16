@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sanjais-png/Daily-leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanjais-png/Daily-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjais-png/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/sanjais-png/Daily-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/sanjais-png/Daily-leetcode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sanjais-png/Daily-leetcode/tree/master/0016-3sum-closest) |
+| [0295-find-median-from-data-stream](https://github.com/sanjais-png/Daily-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sanjais-png/Daily-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -342,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/sanjais-png/Daily-leetcode/tree/master/0866-rectangle-overlap) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sanjais-png/Daily-leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sanjais-png/Daily-leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
