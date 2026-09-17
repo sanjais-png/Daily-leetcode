@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sanjais-png/Daily-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/sanjais-png/Daily-leetcode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1217-relative-sort-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/1217-relative-sort-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/sanjais-png/Daily-leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjais-png/Daily-leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sanjais-png/Daily-leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sanjais-png/Daily-leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/sanjais-png/Daily-leetcode/tree/master/1073-number-of-enclaves) |
+| [1217-relative-sort-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/1217-relative-sort-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjais-png/Daily-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/sanjais-png/Daily-leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sanjais-png/Daily-leetcode/tree/master/0016-3sum-closest) |
 | [0295-find-median-from-data-stream](https://github.com/sanjais-png/Daily-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sanjais-png/Daily-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1217-relative-sort-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/1217-relative-sort-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjais-png/Daily-leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Matrix
@@ -353,4 +356,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sanjais-png/Daily-leetcode/tree/master/0295-find-median-from-data-stream) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/1217-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/1217-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
