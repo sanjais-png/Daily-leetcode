@@ -371,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1217-relative-sort-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/1217-relative-sort-array) |
 | [1970-sorting-the-sentence](https://github.com/sanjais-png/Daily-leetcode/tree/master/1970-sorting-the-sentence) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/sanjais-png/Daily-leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
