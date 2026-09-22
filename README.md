@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/sanjais-png/Daily-leetcode/tree/master/1250-longest-common-subsequence) |
 | [1970-sorting-the-sentence](https://github.com/sanjais-png/Daily-leetcode/tree/master/1970-sorting-the-sentence) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sanjais-png/Daily-leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/sanjais-png/Daily-leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/sanjais-png/Daily-leetcode/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2662-check-knight-tour-configuration](https://github.com/sanjais-png/Daily-leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sanjais-png/Daily-leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/sanjais-png/Daily-leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
