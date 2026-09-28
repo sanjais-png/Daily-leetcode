@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sanjais-png/Daily-leetcode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/sanjais-png/Daily-leetcode/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/sanjais-png/Daily-leetcode/tree/master/1250-longest-common-subsequence) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sanjais-png/Daily-leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1970-sorting-the-sentence](https://github.com/sanjais-png/Daily-leetcode/tree/master/1970-sorting-the-sentence) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sanjais-png/Daily-leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/sanjais-png/Daily-leetcode/tree/master/3811-reverse-degree-of-a-string) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjais-png/Daily-leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjais-png/Daily-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjais-png/Daily-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sanjais-png/Daily-leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/sanjais-png/Daily-leetcode/tree/master/0595-big-countries) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sanjais-png/Daily-leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
