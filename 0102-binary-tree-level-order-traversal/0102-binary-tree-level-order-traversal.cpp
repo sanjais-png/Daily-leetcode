@@ -15,27 +15,29 @@ public:
         if(root == nullptr){
             return {};
         }
-        vector<vector<int>>ans;
         queue<TreeNode*>q;
         q.push(root);
-        while(!q.empty())
-        {
-            vector<int>cur;
+
+        vector<vector<int>>ans;
+        while(!q.empty()){
             int size = q.size();
+            vector<int>current;
             for(int i = 0 ; i < size ; i++){
                 TreeNode* temp = q.front();
                 q.pop();
-                cur.push_back(temp -> val);
-                if(temp -> left != nullptr){
-                    q.push(temp -> left);
+                current.push_back(temp->val);
+
+                if(temp->left != nullptr){
+                    q.push(temp->left);
                 }
-                if(temp -> right != nullptr){
-                    q.push(temp -> right);
+
+                if(temp->right != nullptr){
+                    q.push(temp->right);
                 }
             }
-            ans.push_back(cur);
-
+            ans.push_back(current);
         }
+
         return ans;
     }
 };
