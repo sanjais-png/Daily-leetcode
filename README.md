@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjais-png/Daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/sanjais-png/Daily-leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/sanjais-png/Daily-leetcode/tree/master/0647-palindromic-substrings) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/sanjais-png/Daily-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/sanjais-png/Daily-leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/sanjais-png/Daily-leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/sanjais-png/Daily-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanjais-png/Daily-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2662-check-knight-tour-configuration](https://github.com/sanjais-png/Daily-leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjais-png/Daily-leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/sanjais-png/Daily-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2662-check-knight-tour-configuration](https://github.com/sanjais-png/Daily-leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/sanjais-png/Daily-leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/sanjais-png/Daily-leetcode/tree/master/3811-reverse-degree-of-a-string) |
